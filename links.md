@@ -14,4 +14,10 @@ Notes yang mengandung berbagai cara untuk meretas Linux agar low level user menj
 Topik yang menarik mengenai eksploitasi yang dapat dilakukan terhadap Safe Exam Browser (SEB) versi <3.4.0 yang dapat membuat pengguna melakukan eksekusi kode melalui print dialog browser SEB.
 
 4. [Effective Neovim: Instant IDE](https://youtu.be/stqUbv-5u2s?si=BoF1ux-6IX_D_01g) <br>
-Video menarik mengenai cara melakukan modifikasi terhadap NeoVim yakni penerus Vim menjadi IDE yang sesungguhnya. 
+Video menarik mengenai cara melakukan modifikasi terhadap NeoVim yakni penerus Vim menjadi IDE yang sesungguhnya.
+
+5. [Cyber-Security-Learning-Resources](https://dimasma0305.github.io/Cyber-Security-Learning-Resources/Resource_List/Link_Bermanfaat/) <br>
+Berisi materi serta link-link untuk mendalami Cyber Security.
+
+6. [The Linux Programming Interface](https://man7.org/tlpi/) <br>
+Berisi materi mengenai TLPI 
