@@ -2,7 +2,6 @@
 permalink: LINKS/
 ---
 # LINKS
-
 1. [SCP Remote to Local](https://linuxhint.com/scp-remote-to-local/)<br>
 Berisi rangkuman berbagai cara menggunakan SCP untuk menduplikasi file, folder, etc
 dari local ke remote atau remote ke local
@@ -20,4 +19,10 @@ Video menarik mengenai cara melakukan modifikasi terhadap NeoVim yakni penerus V
 Berisi materi serta link-link untuk mendalami Cyber Security.
 
 6. [The Linux Programming Interface](https://man7.org/tlpi/) <br>
-Berisi materi mengenai TLPI 
+Berisi materi mengenai TLPI
+
+7. [you will never ask about pointers again after watching this video](https://youtu.be/2ybLD6_2gKM?si=MpvP77rHUHvSLugt) <br>
+Berisi materi mengenai pointers di C programming.
+
+8. [How Hackers Exploit Vulnerable Drivers](https://youtu.be/ELVdDwvELKY?si=vxfqxLjumTDxVq4V) <br>
+Simulai bagaimana cara mengeksploitasi drivers.
