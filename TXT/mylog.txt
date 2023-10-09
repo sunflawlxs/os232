@@ -1,72 +1,49 @@
-# Log Format
-# ZCZC WEEK# MINUTES LogCode Description
-# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
-ZCZC W00 5 L01 SCELE/Discord related
-ZCZC W00 25 L03 GitHub and git related, including commit, push, pull
-ZCZC W00 15 L04 GitHub Pages related
-ZCZC W00 180 L05 Quiz related including studying
-ZCZC W00 35 L30 Udacity
-ZCZC W00 20 L05 Quiz related including studying
-ZCZC W00 180 L05 Quiz related including studying
-ZCZC W00 20 L07 Demo related
-ZCZC W00 200 L05 Quiz related including studying
-ZCZC W00 120 L10 Assignment #00
-ZCZC W00 60 L41 TXT/mylog.txt related.
-ZCZC W00 10 L05 Quiz related including studying
-ZCZC W01 30 L61 Install/Reinstall/Restore/Backup Virtual Box
-ZCZC W01 120 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
-ZCZC W01 30 L01 SCELE/Discord related
-ZCZC W01 90 L02 CLASSROOM/ZOOM meetings related
-ZCZC W01 120 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 60 L23 Bash, Regex, SED, AWK.
-ZCZC W01 60 L24 Scripting in general.
-ZCZC W01 60 L22 Linux CLI including tar, etc.
-ZCZC W01 20 L27 SSH, key-gen, tunneling, putty, winscp
-ZCZC W01 100 L03 GitHub and git related, including commit, push, pull
-ZCZC W01 60 L41 TXT/mylog.txt related.
-ZCZC W01 180 L11 Assignment #01
-ZCZC W02 120 L07 Demo related
-ZCZC W02 60 L26 GnuPG, key-gen, encrypt/decrypt.
-ZCZC W02 120 L25 C-language including Make.
-ZCZC W02 90 L02 CLASSROOM/ZOOM meetings related
-ZCZC W02 60 L01 SCELE/Discord related
-ZCZC W02 180 L05 Quiz related including studying
-ZCZC W02 60 L40 TXT/ related in general.
-ZCZC W02 60 L41 TXT/mylog.txt related.
-ZCZC W02 60 L42 TXT/mypubkey.txt related. See also L27.
-ZCZC W02 60 L43 TXT/myrank.tex related, including peer review.
-ZCZC W02 60 L44 TXT/myscript.sh related. See also L25, L24.
-ZCZC W02 60 L45 TXT/SHA256SUM related
-ZCZC W02 80 L23 Bash, Regex, SED, AWK.
-ZCZC W02 60 L24 Scripting in general.
-ZCZC W02 180 L12 Assignment #02
-ZCZC W02 180 L03 CLASSROOM/ZOOM meetings related
-ZCZC W03 60 L01 SCELE/Discord related
-ZCZC W03 120 L07 Demo related
-ZCZC W03 60 L23 Bash, Regex, SED, AWK.
-ZCZC W03 60 L24 Scripting in general.
-ZCZC W03 30 L25 C-language including Make.
-ZCZC W03 100 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W03 180 L05 Quiz related including studying
-ZCZC W03 60 L40 TXT/ related in general.
-ZCZC W03 60 L41 TXT/mylog.txt related.
-ZCZC W03 60 L42 TXT/mypubkey.txt related. See also L27.
-ZCZC W03 60 L43 TXT/myrank.tex related, including peer review.
-ZCZC W03 60 L44 TXT/myscript.sh related. See also L25, L24.
-ZCZC W03 60 L45 TXT/SHA256SUM related
-ZCZC W03 180 L13 Assignment #03
-ZCZC W04 100 L03 CLASSROOM/ZOOM meetings related
-ZCZC W04 60 L01 SCELE/Discord related
-ZCZC W04 120 L07 Demo related
-ZCZC W04 120 L25 C-language including Make.
-ZCZC W04 60 L23 Bash, Regex, SED, AWK.
-ZCZC W04 60 L24 Scripting in general.
-ZCZC W04 100 L05 Quiz related including studying
-ZCZC W04 100 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W04 100 L05 Quiz related including studying
-ZCZC W04 60 L40 TXT/ related in general.
-ZCZC W04 60 L41 TXT/mylog.txt related.
-ZCZC W04 60 L42 TXT/mypubkey.txt related. See also L27.
-ZCZC W04 60 L43 TXT/myrank.tex related, including peer review.
-ZCZC W04 60 L44 TXT/myscript.sh related. See also L25, L24.
-ZCZC W04 60 L45 TXT/SHA256SUM related
+ZCZC W05 30 L00 General, etc.
+ZCZC W05 35 L01 SCELE/Discord related
+ZCZC W05 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W05 20 L03 GitHub related
+ZCZC W05 10 L04 GitHub Pages related
+ZCZC W05 10 L05 QUIZ
+ZCZC W05 60 L09 Weekly Assignments
+ZCZC W04 30 L00 General, etc.
+ZCZC W04 35 L01 SCELE/Discord related
+ZCZC W04 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 20 L03 GitHub related
+ZCZC W04 10 L04 GitHub Pages related
+ZCZC W04 10 L05 QUIZ
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 30 L00 General, etc.
+ZCZC W04 35 L01 SCELE/Discord related
+ZCZC W04 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W04 20 L03 GitHub related
+ZCZC W04 10 L04 GitHub Pages related
+ZCZC W04 10 L05 QUIZ
+ZCZC W04 60 L09 Weekly Assignments
+ZCZC W04 30 L00 General, etc.
+ZCZC W03 35 L01 SCELE/Discord related
+ZCZC W03 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W03 20 L03 GitHub related
+ZCZC W03 10 L04 GitHub Pages related
+ZCZC W03 10 L05 QUIZ
+ZCZC W03 60 L09 Weekly Assignments
+ZCZC W02 20 L00 General, etc.
+ZCZC W02 35 L01 SCELE/Discord related
+ZCZC W02 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W02 20 L03 GitHub related
+ZCZC W02 10 L04 GitHub Pages related
+ZCZC W02 10 L05 QUIZ
+ZCZC W02 60 L09 Weekly Assignments
+ZCZC W01 20 L00 General, etc.
+ZCZC W01 35 L01 SCELE/Discord related
+ZCZC W01 120 L02 CLASSROOM/ZOOM meetings related
+ZCZC W01 10 L03 GitHub related
+ZCZC W01 10 L04 GitHub Pages related
+ZCZC W01 10 L05 QUIZ
+ZCZC W01 60 L09 Weekly Assignments
+ZCZC W00 20 L00 General, etc.
+ZCZC W00 20 L01 SCELE/Discord related
+ZCZC W00 90 L02 CLASSROOM/ZOOM meetings related
+ZCZC W00 10 L03 GitHub related
+ZCZC W00 10 L04 GitHub Pages related
+ZCZC W00 10 L05 QUIZ
+ZCZC W00 60 L09 Weekly Assignments
