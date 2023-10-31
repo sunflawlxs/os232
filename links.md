@@ -1,7 +1,9 @@
 ---
 permalink: LINKS/
 ---
+
 # LINKS
+
 1. [SCP Remote to Local](https://linuxhint.com/scp-remote-to-local/)<br>
 Berisi rangkuman berbagai cara menggunakan SCP untuk menduplikasi file, folder, etc
 dari local ke remote atau remote ke local
@@ -26,3 +28,9 @@ Berisi materi mengenai pointers di C programming.
 
 8. [How Hackers Exploit Vulnerable Drivers](https://youtu.be/ELVdDwvELKY?si=vxfqxLjumTDxVq4V) <br>
 Simulai bagaimana cara mengeksploitasi drivers.
+
+9. [Shared Memory Systems](https://youtu.be/uHtzOFwgD74?si=v2cRNFtChuQhAGFH) <br>
+Video berupa materi mengenai bagaimana cara kerja Shared Memory Systems
+
+10. [How to Set up Shared Memory in Your Linux and MacOS Programs. (shmget, shmat, shmdt, shmctl, ftok)](https://youtu.be/WgVSq-sgHOc?si=uRAhIoWxZCsLwbKz) <br>
+Video berupa materi mengenai bagaimana cara melakukan Shared Memory di dalam Linux
